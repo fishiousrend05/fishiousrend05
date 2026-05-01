@@ -33,14 +33,4 @@ Data-driven third-year MIS student targeting an Analytics Engineer role. Skilled
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau logo" />
 </p>
 
-### Socials
 
-<p align="left">
-  <a href="https://github.com/fishiousrend05" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="github" height="30" />
-  </a>
-  <img width="10" />
-  <a href="https://www.facebook.com/trong.nguyen.436441" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook.png" alt="gmail" height="30" />
-  </a>
-</p>

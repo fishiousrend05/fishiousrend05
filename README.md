@@ -2,7 +2,7 @@
 
 ### Analytics Engineer
 
-Data-driven third-year MIS student targeting an Analytics Engineer role. Skilled in building structured data pipelines (PySpark, SQL) and applying foundational machine learning models for forecasting. Eager to leverage technical skills in a professional environment to build reliable data infrastructure and support data-driven decision-making.
+Data-driven MIS student targeting an Analytics Engineer role. Skilled in building structured data pipelines (PySpark, SQL) and applying foundational machine learning models for forecasting. Eager to leverage technical skills in a professional environment to build reliable data infrastructure and support data-driven decision-making.
 
 *  I'm based in Vietnam
 *  Bachelor of Management Information Systems at National Economics University (NEU)

@@ -2,9 +2,10 @@
 
 ### Analytics Engineer
 
-Data-driven MIS student targeting an Analytics Engineer role. Skilled in building structured data pipelines  and applying foundational machine learning models for forecasting. Eager to leverage technical skills in a professional environment to build reliable data infrastructure and support data-driven decision-making.
-
-### Tech Skills
+Data-driven MIS student targeting an Analytics Engineer role.
+Skilled in building structured data pipelines, dimensional data models,
+and analytics-ready datasets, with additional experience in machine
+learning for forecasting.
 
 ### Tech Skills
 

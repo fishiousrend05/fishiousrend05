@@ -35,4 +35,4 @@ learning for forecasting.
 </p>
 
 ### Github stats
-![](https://streak-stats.demolab.com/?user=fishiousrend05&theme=flag-india&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=fishiousrend05&theme=flag-india&hide_border=false&v=1)<br/>
